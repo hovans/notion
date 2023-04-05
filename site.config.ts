@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
+  name: '机场推荐机场评测',
   domain: 'honven.xyz',
   author: 'Travis Fischer',
 
